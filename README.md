@@ -4,6 +4,8 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dp0hbi49d/image/upload/v1712565429/f60144a4aa2c05725c3d_btnv4m.jpg">
 
 - 🌱 My career goal is to continuously learn and aspire to undertake diverse responsibilities in a dynamic environment to enhance my skills.
+  
+- 🐥 I aspire to become a **Fullstack Developer** in the future!
 
 - 💬 Ask me about **ReactJS, NextJS, React Native, Java,...**
 
@@ -12,8 +14,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/hang-cao-8a588022a/](https://www.linkedin.com/in/hang-cao-8a588022a/)
 
 - ⚡ Fun fact: **Occasionally introverted 🤯**
-
-- 🐥 I aspire to become a **Fullstack Developer** in the future!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
