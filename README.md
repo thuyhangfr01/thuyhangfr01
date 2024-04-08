@@ -1,11 +1,7 @@
 <h1 align="center">Hi 🌸, I'm Thuy Hang</h1>
 <h3 align="center">A passionate Software Engineer from Viet Nam!</h3>
 
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dp0hbi49d/image/upload/v1712565429/f60144a4aa2c05725c3d_btnv4m.jpg">
-
 - 🌱 My career goal is to continuously learn and aspire to undertake diverse responsibilities in a dynamic environment to enhance my skills.
-  
-- 🐥 I aspire to become a **Fullstack Developer** in the future!
 
 - 💬 Ask me about **ReactJS, NextJS, React Native, Java,...**
 
