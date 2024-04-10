@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thuyhangfr01@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hang-cao-8a588022a/](https://www.linkedin.com/in/hang-cao-147136303/)
+- 📄 Know about my experiences **[https://www.linkedin.com/in/hang-cao-8a588022a/](https://www.linkedin.com/in/hang-cao-147136303/)**
 
 - ⚡ Fun fact: **Occasionally introverted 🤯**
 
